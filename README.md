@@ -2,12 +2,16 @@
 🚧 Pothole Detector - Real-time Web Application
 A complete MVP web application for detecting potholes in real-time using device cameras (laptop/phone/tablet). Built with FastAPI backend and YOLOv8 computer vision model.
 
+
+
 🎯 Features
 Real-time Detection: Live pothole detection from device camera
 Cross-Device Support: Works on laptops, phones, and tablets via browser
 Interactive UI: Start/stop controls with live statistics
 Performance Monitoring: Real-time FPS and confidence metrics
 Responsive Design: Mobile-friendly interface
+
+
 🛠️ Tech Stack
 Backend
 FastAPI - Modern Python web framework
@@ -18,6 +22,7 @@ Frontend
 HTML5/CSS3/JavaScript - Vanilla web technologies
 Canvas API - Bounding box rendering
 MediaDevices API - Camera access
+
 📦 Installation
 Prerequisites
 Python 3.11+
